@@ -15,9 +15,6 @@ I’m currently at azmth.<br> I’m currently learning React.js.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400 px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-abhirup&icon=0&color=0)](https://visitcount.itsvg.in)
 
