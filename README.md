@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
-![](https://komarev.com/ghpvc/?username=onemineus)
+![](https://komarev.com/ghpvc/?username=dev-abhirup)
 
 # 💫 About Me:
 I’m currently at azmth.<br> I’m currently learning React.js.
