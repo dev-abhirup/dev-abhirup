@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=dev-abhirup)
 
 # 💫 About Me:
-I’m currently at azmth.<br> I’m currently learning React.js.
+🔭 I’m currently working at azmth!<br>⚡ Fun fact -> My College sucks.
 
 
 ## 🌐 Socials:
